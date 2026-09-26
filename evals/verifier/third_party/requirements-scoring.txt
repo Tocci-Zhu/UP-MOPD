@@ -1,0 +1,18 @@
+# Scoring-only dependencies. No Git URLs, model inference packages or GPU runtime.
+# Versions exercised locally with Python 3.12.13. See requirements-validation-lock.txt
+# for the complete local environment. Remote Linux has not been validated.
+absl-py==2.5.0
+appdirs==1.4.4
+emoji==2.15.0
+immutabledict==4.3.1
+jsonlines==4.0.0
+langdetect==1.0.9
+nltk==3.10.3
+syllapy==0.8.0
+tempdir==0.7.1
+wget==3.2
+pandas==3.0.5
+numpy==2.5.3
+datasets==3.6.0
+pyarrow==25.0.1
+tqdm==4.70.1

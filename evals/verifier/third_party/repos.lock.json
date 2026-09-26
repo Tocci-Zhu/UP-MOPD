@@ -1,0 +1,15 @@
+{
+  "description": "Locally selected compatible official snapshots, downloaded 2026-09-12. The original Open-MOPD verifier lock was unavailable; these are not claimed to be its original pins.",
+  "repos": {
+    "ifbench": {
+      "url": "https://github.com/allenai/IFBench.git",
+      "commit": "7840769458e006e9b848dbdf05ac3d12ec4976ba",
+      "checkout": "third_party/repos/ifbench"
+    },
+    "livecodebench": {
+      "url": "https://github.com/LiveCodeBench/LiveCodeBench.git",
+      "commit": "28fef95ea8c9f7a547c8329f2cd3d32b92c1fa24",
+      "checkout": "third_party/repos/livecodebench"
+    }
+  }
+}
