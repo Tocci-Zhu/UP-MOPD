@@ -35,7 +35,6 @@ and the vLLM dependencies described in the [vendored verl README](training/verl/
 Install this checkout's patched verl:
 
 ```bash
-git clone https://github.com/Tocci-Zhu/UP-MOPD.git
 cd UP-MOPD
 cd training
 bash install_requirements.sh
